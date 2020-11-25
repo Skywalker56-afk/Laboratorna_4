@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP_LB4_1-3_task/1.0.0": {
+        "runtime": {
+          "OOP_LB4_1-3_task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_LB4_1-3_task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
